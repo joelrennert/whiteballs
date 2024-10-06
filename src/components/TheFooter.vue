@@ -7,7 +7,7 @@
       >
       》<a href="https://www.linkedin.com/in/joelrennert/" target="_blank">linkedin</a>
     </div>
-    <div class="container2">amorphous rotating white balls</div>
+    <!-- <div class="container2">amorphous rotating white balls</div> -->
   </footer>
 </template>
 <script>
