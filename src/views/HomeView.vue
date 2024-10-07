@@ -21,8 +21,8 @@ const isStopping = ref(false)
 <template>
   <main :class="{ 'stop-animation': isAnimationStopped, 'easing-out': isStopping }">
     <SquareDiv v-for="n in 240" :key="n" class="square" />
-    <div class="overlay">
-      <!-- <div class="overlay-content">
+    <!-- <div class="overlay">
+      <div class="overlay-content">
         <div class="overlay-content-top">
             <p class="contentTitle">Joel Rennert</p>
             <p class="contentSubtitle">High Functioning Creative Individual</p>
@@ -41,8 +41,8 @@ const isStopping = ref(false)
             <p class="contentTextSmall">mywebsitejoel.com</p>
           </div>
         </div> 
-      </div> -->
-    </div>
+      </div>
+    </div> -->
   </main>
 </template>
 
